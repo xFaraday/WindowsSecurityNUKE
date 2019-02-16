@@ -1,8 +1,8 @@
-#NUKE
+# NUKE
 > Swiss army knife/One stop shop collection of tools | Ethan Michalak
 
-##Tools included
-####*Note: I do not own the rights to any of the tools included except ezscript and the security templates*
+## Tools included
+#### *Note: I do not own the rights to any of the tools included except ezscript and the security templates*
 *[ADSSpy](https://www.bleepingcomputer.com/download/ads-spy/)
 *[AdvancedWinServiceManager](https://securityxploded.com/winservicemanager.php)
 *[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
@@ -29,14 +29,14 @@
 *[Nessus](https://www.tenable.com/products/nessus/nessus-professional)
 *[EzScript](https://github.com/xFaraday/EzScript)
 
-##[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+## [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 *Windows10
 *Server2016
 *Windows 8.1
 *Windows 7
 *Server2008
 
-##Templates
+## Templates
 *Security Template for Windows 8.1
 *Security Template for Windows Server 2016
 
